@@ -1,7 +1,7 @@
 # Shri Sai Arts
 
 
-View the demo [here.](https://svalanju.github.io/shri-sai-arts/)
+View the demo [here.](https://svalanju.github.io/Shri-Sai-Arts/)
 
 ```
 Currently this project is under construction.
