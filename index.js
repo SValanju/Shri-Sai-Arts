@@ -65,3 +65,25 @@ document.addEventListener("DOMContentLoaded", () => {
     scrollToTopBtn.addEventListener("click", scrollToTop);
 
 });
+
+$(function () {
+    setTimeout(function () {
+        $('#alertModal').modal('show');
+
+        const $timer = $("#alertModal .timer");
+        const $closeBtn = $("#alertModal .btn");
+        let timerCount = parseInt($timer.text());
+
+        const countdown = setInterval(function () {
+            timerCount--;
+            $timer.text(timerCount);
+
+            if (timerCount <= 0) {
+                clearInterval(countdown);
+                $closeBtn.removeClass("disabled");
+                $closeBtn.text("Close");
+            }
+        }, 1000);
+        
+    }, 3000);
+});

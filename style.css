@@ -112,3 +112,11 @@ body {
     width: 15%;
     padding: 0;
 }
+
+#idolsTab .nav-link{
+    color: var(--text-white);
+}
+#idolsTab .nav-link.active {
+    color: var(--bg-dark);
+    font-weight: bold;
+}
