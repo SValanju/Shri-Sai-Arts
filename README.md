@@ -3,10 +3,6 @@
 
 View the demo [here.](https://svalanju.github.io/Shri-Sai-Arts/)
 
-```
-Currently this project is under construction.
-```
-
 ## Description
 ```
 We specialize in handcrafted Ganpati Murtis made from Shadu soil, POP, and eco-friendly paper clay(Lagda).
