@@ -1,9 +1,4 @@
 # Shri Sai Arts
-
-
-View the demo [here.](https://svalanju.github.io/Shri-Sai-Arts/)
-
-## Description
 ```
 We specialize in handcrafted Ganpati Murtis made from Shadu soil, POP, and eco-friendly paper clay(Lagda).
 Each idol is lovingly created for the Ganesh Festival, with options for customized designs to suit your
